@@ -31,7 +31,7 @@
             android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBhI6GH4cMfMtv8kA-nQE9jPVmMa0PLuMg" />
+            android:value="AIzaSyAHr3Hn4UCTehWJH_4irb0dkLcbgy_nOnw" />
         <activity android:name=".settings.SettingsActivity"
             android:theme="@style/AppTheme.NoActionBar"
             android:parentActivityName=".MainActivity"
